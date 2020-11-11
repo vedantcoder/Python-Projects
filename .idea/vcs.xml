@@ -3,6 +3,7 @@
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/ChatApp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Github/flask-microblog" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/MyBlog" vcs="Git" />
   </component>
 </project>
